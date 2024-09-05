@@ -1,0 +1,17 @@
+Who is the father of C language?
+a.Steve jobs
+b.James Gosling
+c.Dennis Richie
+d.Rasmus Lerdorf
+
+Which of the following is not a valid C variable name?
+a.int num;
+b.float rate;
+c.int var_count;
+d.int $main;
+
+All keywords in c are in ____:
+a.lowercase letters
+b.uppercase letters
+c.camel case
+d.None of the above

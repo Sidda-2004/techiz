@@ -1,0 +1,3 @@
+c.Dennis Richie
+d.int $main
+a.lowercase letters
